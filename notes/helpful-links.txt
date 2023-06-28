@@ -1,0 +1,11 @@
+
+Example to make a href button to open up locally hosted pages
+https://stackoverflow.com/questions/68807449/link-to-a-place-in-a-locally-hosted-website
+
+running html website local host:
+https://stackoverflow.com/questions/46637084/running-html-on-localhost
+ -- with Visual Studio Code extension
+https://semicolon.dev/vscode/how-to-run-html-file-on-localhost-live-server
+https://mrcoles.com/how-start-local-web-server-view-html-files/
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server
