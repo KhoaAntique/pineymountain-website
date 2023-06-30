@@ -7,5 +7,9 @@ https://stackoverflow.com/questions/46637084/running-html-on-localhost
  -- with Visual Studio Code extension
 https://semicolon.dev/vscode/how-to-run-html-file-on-localhost-live-server
 https://mrcoles.com/how-start-local-web-server-view-html-files/
-
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server
+
+https://stackoverflow.com/questions/74698411/python-in-command-prompt-doesnt-work-windows-10
+
+Instruction for creating an HTTP Server in Python:::::
+https://morioh.com/p/8f241f0579b6

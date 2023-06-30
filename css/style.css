@@ -46,7 +46,7 @@ header {
 .hero {
     width: 100%;
     min-height: 800px;
-    background: url('C:/DevWork/pineymountain-website/assets/background.jpg') rgba(0,0,0,0.5);
+    background: url('C:/DevWorks/pineymountain-website/assets/background.jpg') rgba(0,0,0,0.5);
     background-blend-mode: multiply;
     background-size: cover;
     background-position: right center;
